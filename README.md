@@ -27,9 +27,7 @@ Este projeto tem como objetivo **prever** a **quantidade** de sorvetes **vendido
 ## 📸 Prints do Projeto
 
 ###  Gráfico de dispersão:
-
-
-  ![Gráfico](imagens/vizulizar-relacao-temperaturas-e-vendas.png)
+  ![Gráfico](imagens/vizulizar-relacao-temperaturas-e-vendas.PNG)
 
 ### Registro do modelo:
   ![MLflow](imagens/registrar-modelo.PNG)
