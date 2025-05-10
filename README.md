@@ -1,6 +1,6 @@
 # 🍦 Previsão de Vendas de Sorvete com Machine Learning
 
-Este projeto tem como objetivo prever a quantidade de sorvetes vendidos com base na temperatura do dia, ajudando a sorveteria fictícia "Gelato Mágico" a planejar melhor sua produção.
+Este projeto tem como objetivo **prever** a **quantidade** de sorvetes **vendidos** com base na **temperatura** do dia, ajudando a sorveteria fictícia **"Gelato Mágico"** a planejar melhor sua **produção**.
 
 ## 📁 Estrutura do Projeto
 - `inputs/`: contém o arquivo CSV com os dados de temperatura e vendas
@@ -25,12 +25,13 @@ Este projeto tem como objetivo prever a quantidade de sorvetes vendidos com base
 5. **Registro do modelo com MLflow**
 
 ## 📸 Prints do Projeto
-> Aqui você pode adicionar imagens como:
 
-- Gráfico de dispersão:
+###  Gráfico de dispersão:
+
+
   ![Gráfico](imagens/vizulizar-relacao-temperaturas-e-vendas.png)
 
-- Registro do modelo:
+### Registro do modelo:
   ![MLflow](imagens/registrar-modelo.PNG)
 
 ## 💬 Aprendizados
